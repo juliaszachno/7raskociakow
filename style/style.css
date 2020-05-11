@@ -90,6 +90,7 @@
 	ol{
 		font-size:25px;
 		color:#F3F1E0;
+		list-style-type:decimal;
 	}
 	.back{
 		font-size:40px;
